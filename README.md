@@ -5,10 +5,7 @@ gitminer-Взлом и поиск паролей
 ![Screenshot](https://3.bp.blogspot.com/-UvpR_QDDAT0/VtiIc8OKrrI/AAAAAAAAboM/69BNKrvdUsU/s1600/gitminer-628x360.png)
 
 ```
-[![wa](https://i.postimg.cc/Y9RVSJ72/wa.png)](https://wa.me/79511193576)
-[![TG](https://i.postimg.cc/qBmSHVQj/TGFR-3.png)](https://t.me/fradyrad)
-[![Donate](https://i.postimg.cc/ryYnYGFH/don-3.png)](https://yoomoney.ru/to/410011586936358)
-[![group](https://i.postimg.cc/d3rqf4Gb/soft.png](https://t.me/python_softs)
+
 ```
 ## ПРЕДУПРЕЖДЕНИЕ
 ```
@@ -206,3 +203,22 @@ filename:.remote-sync.json                      | Created by remote-sync for Ato
 filename:sftp.json path:.vscode                 | Created by vscode-sftp for VSCode, contains SFTP/SSH server details and credentails
 filename:sftp-config.json                       | Created by SFTP for Sublime Text, contains FTP/FTPS or SFTP/SSH server details and credentials
 filename:WebServers.xml                         | Created by Jetbrains IDEs, contains webserver credentials with encoded passwords ([not encrypted!](https://intellij-support.jetbrains.com/hc/en-us/community/posts/207074025/comments/207034775))
+
+[![wa](https://i.postimg.cc/Y9RVSJ72/wa.png)](https://wa.me/79511193576)
+[![TG](https://i.postimg.cc/qBmSHVQj/TGFR-3.png)](https://t.me/fradyrad)
+[![Donate](https://i.postimg.cc/ryYnYGFH/don-3.png)](https://yoomoney.ru/to/410011586936358)
+[![group](https://i.postimg.cc/d3rqf4Gb/soft.png](https://t.me/python_softs)
+
+
+
+
+
+
+
+
+
+
+
+
+
+

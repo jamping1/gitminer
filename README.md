@@ -5,7 +5,14 @@ gitminer-Взлом и поиск паролей
 ![Screenshot](https://3.bp.blogspot.com/-UvpR_QDDAT0/VtiIc8OKrrI/AAAAAAAAboM/69BNKrvdUsU/s1600/gitminer-628x360.png)
 
 ```
+## Контакты: 
+# - Электронная почта: satona2007@yandex.ru
+# - 
+# - Телеграм: [Отправить сообщение](https://t.me/fradyrad)
+# - whatsapp: [Отправить сообщение](https://wa.me/79511193576)
 
+# - Яндекс Дзен: [Подписаться](https://dzen.ru/privatsoft)
+# - KWORK:  [смотреть другие товары](https://kwork.ru/user/sleadgenrator)
 ```
 ## ПРЕДУПРЕЖДЕНИЕ
 ```

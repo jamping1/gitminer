@@ -207,7 +207,7 @@ filename:WebServers.xml                         | Created by Jetbrains IDEs, con
 [![wa](https://i.postimg.cc/Y9RVSJ72/wa.png)](https://wa.me/79511193576)
 [![TG](https://i.postimg.cc/qBmSHVQj/TGFR-3.png)](https://t.me/fradyrad)
 [![Donate](https://i.postimg.cc/ryYnYGFH/don-3.png)](https://yoomoney.ru/to/410011586936358)
-[![group](https://i.postimg.cc/d3rqf4Gb/soft.png](https://t.me/python_softs)
+
 
 
 

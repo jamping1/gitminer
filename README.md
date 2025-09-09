@@ -4,7 +4,7 @@ gitminer-Взлом и поиск паролей
 
 ![Screenshot](https://3.bp.blogspot.com/-UvpR_QDDAT0/VtiIc8OKrrI/AAAAAAAAboM/69BNKrvdUsU/s1600/gitminer-628x360.png)
 
-```
+
 ## Контакты: 
 # - Электронная почта: satona2007@yandex.ru
 # - 
@@ -13,7 +13,7 @@ gitminer-Взлом и поиск паролей
 
 # - Яндекс Дзен: [Подписаться](https://dzen.ru/privatsoft)
 # - KWORK:  [смотреть другие товары](https://kwork.ru/user/sleadgenrator)
-```
+
 ## ПРЕДУПРЕЖДЕНИЕ
 ```
  +---------------------------------------------------+
